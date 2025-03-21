@@ -44,7 +44,7 @@ css: styles.css
 
 ## Codebooks / data dictionaries
 
-Also known as data dictionaries, codebooks are essential to describe the contents, structure, and layout of a dataset. This ensures porper documentation, and further understing and reuse by other researchers as a reference for data analysis and interpretation.
+Also known as data dictionaries, codebooks are essential to describe the contents, structure, and layout of a dataset. This ensures proper documentation, and further understing and reuse by other researchers as a reference for data analysis and interpretation.
 
 ## Key Components of a Codebook
 
@@ -65,12 +65,12 @@ As a document (table level) artifact, a codebook defines as clear as posible the
 :::
 
 ::: {.callout-tip}
-Depending on the discpline, more attributes could be describe to make the dataset understandable. Click [here](https://osf.io/925sh) to see an example.
+Depending on the discpline, more attributes could be describe to make the dataset understandable. The Open Science Framework (OSF) has an [example codebook](https://osf.io/925sh) with additional helpful attributes.
 :::
 
 ## How to create a codebook 
 
-Creating codebooks is a good scientific practice that should be implemented during the research process. Keep the format as simple as possible. The Alliance web application [here](https://rdm-codebook-generator.vercel.app/) allows the user to download a .CSV codebook derived from a given data table.
+Creating codebooks is a good scientific practice that should be implemented during the research process. Keep the format as simple as possible. The [Alliance web application](https://rdm-codebook-generator.vercel.app/) allows the user to download a .CSV codebook derived from a given data table.
 
 
 # Example of codebook
